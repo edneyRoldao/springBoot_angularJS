@@ -1,0 +1,4 @@
+/**
+ * edney
+ */
+angular.module("appClient", []);
